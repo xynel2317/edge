@@ -1,4 +1,4 @@
-How do I install a level?
+How do I install level?
 
 1. Download the files
 2. Open Steam
